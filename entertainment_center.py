@@ -16,7 +16,3 @@ movies = [two_pointO, avatar, mersal, petta, CCV, Vikram_Vedha]
 
 fresh_tomatoes.open_movies_page(movies)
 
-
-
-#print(avatar.storyline)
-#avatar.show_trailer()
